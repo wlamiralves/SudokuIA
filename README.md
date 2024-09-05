@@ -1,7 +1,7 @@
 <h1 align="center">Sudoku IA :brain:</h1>
 
 <p align="center">
-  <img alt="IA Sudoku System" src="https://github.com/user-attachments/assets/b3f6a96b-15c3-4671-b6f7-59abb3d82502" width="40%">
+  <img alt="IA Sudoku System" src="https://github.com/user-attachments/assets/f2d6511f-39fd-4551-bb24-2f53b3a5d356" width="40%">
 </p>
 
 ## 💻 Visão Geral do Projeto
