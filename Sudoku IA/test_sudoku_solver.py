@@ -1,5 +1,3 @@
-# tests/test_sudoku_solver.py
-
 import unittest
 import numpy as np
 from sudoku_solver import solve_sudoku, generate_sudoku
