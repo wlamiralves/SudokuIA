@@ -1,5 +1,3 @@
-# tests/test_sudoku_game.py
-
 import unittest
 import json
 import numpy as np
