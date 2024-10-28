@@ -1,5 +1,3 @@
-# sudoku_solver.py
-
 import numpy as np
 
 def is_valid(board, row, col, num):
